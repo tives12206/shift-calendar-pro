@@ -1,0 +1,5 @@
+tkinter
+tkcalendar==1.6.1
+LunarCalendar==0.0.9
+pandas==2.2.3
+openpyxl==3.1.5
