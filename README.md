@@ -1,7 +1,7 @@
 # shift-calendar-pro
 排班日历 专业版
 适用于有值班需求的公司，由于自己需要，但其他软件功能都比较分散，所以自己用AI做了个^_^
-以下是它的主要功能：
+
 # 排班日历专业版 (Shift Scheduler Professional)
 
 这是一个基于tkinter的排班管理系统，具有以下主要功能：
